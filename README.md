@@ -20,6 +20,7 @@ For everyone !!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0125-valid-palindrome) |
 ## Simulation
 |  |
 | ------- |
@@ -37,5 +38,6 @@ For everyone !!
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
