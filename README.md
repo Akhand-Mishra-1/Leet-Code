@@ -30,6 +30,7 @@ For everyone !!
 | ------- |
 | [0217-contains-duplicate](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
@@ -40,4 +41,9 @@ For everyone !!
 | ------- |
 | [0125-valid-palindrome](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
