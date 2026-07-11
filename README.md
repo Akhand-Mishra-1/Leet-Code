@@ -35,6 +35,7 @@ For everyone !!
 | [0217-contains-duplicate](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +48,7 @@ For everyone !!
 | [0125-valid-palindrome](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/1894-merge-strings-alternately) |
 ## Counting
@@ -54,6 +56,7 @@ For everyone !!
 | ------- |
 | [0169-majority-element](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -62,4 +65,8 @@ For everyone !!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
