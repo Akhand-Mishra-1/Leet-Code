@@ -8,6 +8,7 @@ For everyone !!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0217-contains-duplicate) |
@@ -21,6 +22,7 @@ For everyone !!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/1894-merge-strings-alternately) |
@@ -39,6 +41,7 @@ For everyone !!
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0242-valid-anagram) |
