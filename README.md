@@ -9,6 +9,7 @@ For everyone !!
 | [0014-longest-common-prefix](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0169-majority-element) |
@@ -34,6 +35,7 @@ For everyone !!
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0242-valid-anagram) |
@@ -42,6 +44,7 @@ For everyone !!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0217-contains-duplicate) |
@@ -50,6 +53,7 @@ For everyone !!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Akhand-Mishra-1/Leet-Code/tree/master/0383-ransom-note) |
